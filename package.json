@@ -1,0 +1,18 @@
+{
+  "name": "cutterapi",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node . --watch",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "express": "^4.21.1"
+  },
+  "keywords": [],
+  "description": ""
+}
