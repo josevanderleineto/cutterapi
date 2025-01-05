@@ -44,7 +44,7 @@ app.get('/', (req, res) => {
       <h1>How to Use the API</h1>
       <p>To use this API, you can make a GET request to the following endpoint:</p>
       <ul>
-          <li><a href="https://cutterapi.vercel.app/api/data">/api/data</a></li>
+          <li><a href="https://notacao-de-autor-api.vercel.app/api/data">/api/data</a></li>
       </ul>
     </body>
     </html>
